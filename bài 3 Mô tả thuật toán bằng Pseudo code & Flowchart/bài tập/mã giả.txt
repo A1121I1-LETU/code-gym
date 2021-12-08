@@ -1,0 +1,53 @@
+ bai tap 1:
+                 
+              begin
+                  input toan, ly, hoa
+                  average = (toan+ly+hoa)/3
+                  display average
+                  end
+ bai tap 2:
+               begin
+                   input money dolar
+                   average = 1 * 23000
+               end
+ bai tap 3:
+                BEGIN
+  INPUT "a, b,c"
+     IF   a > b    AND   a > c
+       DISPLAY   " a is the bigget number" 
+     ESLE
+       DISPLAY   " a is not the larget number" 
+     IF   b > a    AND   b > c
+       DISPLAY   " b is the bigget number" 
+     ESLE
+       DISPLAY   " b is not the larget number"
+       IF   c > a    AND   c > b
+       DISPLAY   " c is the bigget number" 
+     ESLE
+       DISPLAY   " c is not the larget number"
+     END IF
+  END 
+bai tap 4: BEGIN
+    INPUT N = n
+    INPUT a1, a2, a3...ai
+    max = ai
+    WHILE i < n
+    Do
+       IF ai > max =>  max = ai
+       END IF
+     DISPLAY max
+END
+bai 5:
+      BEAGIN
+            INPUT  diem
+            IF   diem >= 75 THEN DISPLAY "  LOAI A "
+            END IF
+            ELSE    IF   diem >= 60 THEN DISPLAY " LOAI B "
+            END IF
+            ELSE  IF   diem >= 45 THEN DISPLAY " LOAI C "
+            END IF
+            ELSE  IF   diem >= 35 THEN DISPLAY " LOAI D "
+            ELSE DISPLAY
+            END IF
+        END
+          

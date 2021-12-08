@@ -1,0 +1,8 @@
+Begin
+       N la so duoc sinh so ngau nhien trong khoan 0-9
+       nhap vao M
+       IF (N==M)
+       Display "Du doan dung"         
+       ELSE             
+       Display "Du doan sai" 
+End
