@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>T?O DANH SÁCH</title>
+</head>
+<body>
+<ul stile="list style type:disc">
+    <H1>
+        <li>VI?T NAM</li></H1>
+    <h3>
+        <ol>
+            1. Hà N?i <br>
+            2. Sài Gòn <br>
+            3. Hu? <br>
+            4. Ðà n?ng <br>
+        </ol>
+    </h3 >
+</ul>
+
+</body>
+<ul stile="list style type:disc">
+    <H1>
+        <li>HOA K?</li></H1>
+    <h3>
+        <ol>
+            1. New York <br>
+            2. Los Angeles <br>
+            3. Chicago <br>
+            4. Houston <br>
+        </ol>
+    </h3 >
+</ul>
+</body>
+<ul stile="list style type:disc">
+    <H1>
+        <li>Trung Qu?c</li></H1>
+    <h3>
+        <ol>
+            1. Beijing <br>
+            2. Chongqin<br>
+            3. shanghai <br>
+            4. Tianjin <br>
+        </ol>
+    </h3 >
+</body>
+</html>
